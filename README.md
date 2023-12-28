@@ -6,7 +6,7 @@
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning React</p>
 <p>📫 How to reach me? udeeshagamage12@gmail.com</p>
-<p>All of my projects are available at <a href="">Medium</a></p>
+<p>All of my Blogs are available at <a href="">Medium</a></p>
 
 ## 💻 Skills
 <p>
