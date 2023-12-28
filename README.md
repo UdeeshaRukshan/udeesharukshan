@@ -36,8 +36,11 @@
 <a href="https://leetcode.com/https://leetcode.com/udeesha/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
+## 🌟 Hacktoberfest 2023
+
 <p>
+    <img width="100%" src="https://res.cloudinary.com/dkflvz7re/image/upload/v1703738527/private/lydhxwdfnxv5i7oxik9z.png" alt="my banner">
+
 </p>
 
 ## 🏆 GitHub Trophies
