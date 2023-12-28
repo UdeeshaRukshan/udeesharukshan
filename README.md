@@ -1,5 +1,8 @@
 # Hi there 👋, My name is Udeesha Rukshan
-<p><img src="https://visitcount.itsvg.in/api?id=UdeeshaRukshan&label=Profile%20Views&color=12&icon=5&pretty=true"><p></p>
+<p><img src="https://visitcount.itsvg.in/api?id=UdeeshaRukshan&label=Profile%20Views&color=12&icon=5&pretty=true"><p></p<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udeesharukshan&show_icons=true&locale=en&layout=compact" alt="udeesharukshan" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udeesharukshan&show_icons=true&locale=en" alt="udeesharukshan" /></p>
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udeesharukshan&" alt="udeesharukshan" /></p>
 <img width="100%" src="https://res.cloudinary.com/dkflvz7re/image/upload/v1703737858/private/upu1lfd41d9bsooyhzql.png" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
