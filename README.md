@@ -3,7 +3,7 @@
 
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=udeesharukshan&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="udeesharukshan" /> </p>
-  
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/udeesharukshan.svg)](https://user-badge.committers.top/sri_lanka_private/udeesharukshan)
 <img width="100%" src="https://res.cloudinary.com/dkflvz7re/image/upload/v1703737858/private/upu1lfd41d9bsooyhzql.png" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
