@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udeesharukshan&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="udeesharukshan" /> </p>
 
 
-<img width="10%" src="https://res.cloudinary.com/dkflvz7re/image/upload/v1703737858/private/upu1lfd41d9bsooyhzql.png" alt="my banner">
+<img width="100%" src="https://res.cloudinary.com/dkflvz7re/image/upload/v1703737858/private/upu1lfd41d9bsooyhzql.png" alt="my banner">
 
 
 <br clear="both">
