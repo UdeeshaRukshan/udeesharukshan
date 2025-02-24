@@ -1,14 +1,14 @@
 <h2 align="left">Hi there 👋, My name is Udeesha Rukshan</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udeesharukshan&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="udeesharukshan" /> </p>
 
-###
-<img width="100%" src="https://res.cloudinary.com/dkflvz7re/image/upload/v1703737858/private/upu1lfd41d9bsooyhzql.png" alt="my banner">
+
+<img width="10%" src="https://res.cloudinary.com/dkflvz7re/image/upload/v1703737858/private/upu1lfd41d9bsooyhzql.png" alt="my banner">
+
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611j8a8oe1rxjwkw6kkul57e269lfdr2micjbofvi38&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" width="150" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611j8a8oe1rxjwkw6kkul57e269lfdr2micjbofvi38&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -91,7 +91,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
-
+<div align="left">
+   <a href="https://www.linkedin.com/in/udeesha-rukshan-852022217/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+   </a>
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+   <a href="https://medium.com/@udeesharukshan" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+   </a>
+   <a href="" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+   </a>
+  <a href="https://web.facebook.com/udeesha.rukshan/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 ## 🌟 Hacktoberfest 2023
 
 <p>
@@ -105,13 +120,6 @@
 </p>
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
 
-###
+
+
