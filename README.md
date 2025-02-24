@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-<img align="right" width="150" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611j8a8oe1rxjwkw6kkul57e269lfdr2micjbofvi38&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" width="170" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611j8a8oe1rxjwkw6kkul57e269lfdr2micjbofvi38&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 
 <div align="left">
